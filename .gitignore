@@ -10,3 +10,11 @@ tests/.phpunit.result.cache
 .idea/*
 .vscode
 js/coverage-ts
+
+# NPM 库
+
+node_modules
+package-lock.json
+
+# Lock 文件
+*.lock
