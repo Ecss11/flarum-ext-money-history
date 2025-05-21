@@ -1,9 +1,6 @@
 # Money History
 
-[License](https://github.com/Ecss11/flarum-ext-money-history/blob/master/LICENSE.md) 
-
-[![Latest Stable Version](https://img.shields.io/packagist/v/mattoid/flarum-ext-money-history.svg)](https://packagist.org/packages/ecss11/flarum-ext-money-history) 
-[![Total Downloads](https://img.shields.io/packagist/dt/mattoid/flarum-ext-money-history.svg)](https://packagist.org/packages/ecss11/flarum-ext-money-history)
+[License](https://github.com/Ecss11/flarum-ext-money-history/blob/master/LICENSE.md)
 
 A [Flarum](http://flarum.org) extension. money history
 
