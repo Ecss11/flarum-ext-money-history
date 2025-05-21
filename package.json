@@ -5,7 +5,9 @@
         "webpack-cli": "6.0.1"
     },
     "dependencies": {
-        "flarum-webpack-config": "^3.0.2"
+        "@flarum/prettier-config": "github:flarum/prettier-config",
+        "flarum-webpack-config": "^3.0.2",
+        "prettier": "^3.5.3"
     },
     "scripts": {
         "dev": "webpack --mode development --watch",
