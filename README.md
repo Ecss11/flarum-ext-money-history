@@ -29,6 +29,5 @@ php flarum cache:clear
 
 ## Links
 
-- [Packagist](https://packagist.org/packages/mattoid/flarum-ext-money-history)
-- [GitHub](https://github.com/mattoid/flarum-ext-money-history)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [Packagist](https://packagist.org/packages/ecss11/flarum-ext-money-history)
+- [GitHub](https://github.com/Ecss11/flarum-ext-money-history)
